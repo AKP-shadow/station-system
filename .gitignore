@@ -2,3 +2,5 @@
 /custom_ner_model
 connection.py
 .env
+/_pychache_
+venv/
