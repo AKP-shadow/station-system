@@ -1,0 +1,4 @@
+.base
+/custom_ner_model
+connection.py
+.env
